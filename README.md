@@ -61,6 +61,4 @@ La aplicación ha sido desarrollada utilizando **Microsoft Power Apps** y se int
 
 **Benayas**
 
-## Autor
-
 Desarrollo realizado en Microsoft Power Apps con integración en tiempo real a Dynamics 365 Business Central mediante tablas virtuales.
